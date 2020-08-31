@@ -1,4 +1,4 @@
-# Hello World Program　ああああああああああああああああああ
+# Hello World Program
 
 # "Hello  world"プログラム
 
